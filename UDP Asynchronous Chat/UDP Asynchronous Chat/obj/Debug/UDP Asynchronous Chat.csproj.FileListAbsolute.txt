@@ -1,0 +1,9 @@
+C:\Users\hlngn\source\repos\UDP Asynchronous Chat\UDP Asynchronous Chat\bin\Debug\UDP Asynchronous Chat.dll
+C:\Users\hlngn\source\repos\UDP Asynchronous Chat\UDP Asynchronous Chat\bin\Debug\UDP Asynchronous Chat.pdb
+C:\Users\hlngn\source\repos\UDP Asynchronous Chat\UDP Asynchronous Chat\obj\Debug\UDP Asynchronous Chat.csproj.AssemblyReference.cache
+C:\Users\hlngn\source\repos\UDP Asynchronous Chat\UDP Asynchronous Chat\obj\Debug\UDP Asynchronous Chat.csproj.CoreCompileInputs.cache
+C:\Users\hlngn\source\repos\UDP Asynchronous Chat\UDP Asynchronous Chat\obj\Debug\UDP Asynchronous Chat.dll
+C:\Users\hlngn\source\repos\UDP Asynchronous Chat\UDP Asynchronous Chat\obj\Debug\UDP Asynchronous Chat.pdb
+C:\Users\hlngn\source\repos\UDP Asynchronous Chat\UDP Asynchronous Chat\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hlngn\source\repos\UDP Asynchronous Chat\UDP Asynchronous Chat\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hlngn\source\repos\UDP Asynchronous Chat\UDP Asynchronous Chat\obj\Debug\UDP Asynchronous Chat.csproj.CopyComplete

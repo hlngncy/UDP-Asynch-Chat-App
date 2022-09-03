@@ -1,0 +1,16 @@
+C:\Users\hlngn\source\repos\UDP Asynchronous Chat\form1\bin\Debug\form1.exe.config
+C:\Users\hlngn\source\repos\UDP Asynchronous Chat\form1\bin\Debug\form1.exe
+C:\Users\hlngn\source\repos\UDP Asynchronous Chat\form1\bin\Debug\form1.pdb
+C:\Users\hlngn\source\repos\UDP Asynchronous Chat\form1\bin\Debug\UDP Asynchronous Chat.dll
+C:\Users\hlngn\source\repos\UDP Asynchronous Chat\form1\bin\Debug\UDP Asynchronous Chat.pdb
+C:\Users\hlngn\source\repos\UDP Asynchronous Chat\form1\obj\Debug\UDP Server Form.csproj.AssemblyReference.cache
+C:\Users\hlngn\source\repos\UDP Asynchronous Chat\form1\obj\Debug\UDP Server Form.csproj.SuggestedBindingRedirects.cache
+C:\Users\hlngn\source\repos\UDP Asynchronous Chat\form1\obj\Debug\form1.Properties.Resources.resources
+C:\Users\hlngn\source\repos\UDP Asynchronous Chat\form1\obj\Debug\UDP Server Form.csproj.GenerateResource.cache
+C:\Users\hlngn\source\repos\UDP Asynchronous Chat\form1\obj\Debug\UDP Server Form.csproj.CoreCompileInputs.cache
+C:\Users\hlngn\source\repos\UDP Asynchronous Chat\form1\obj\Debug\UDP Server Form.csproj.CopyComplete
+C:\Users\hlngn\source\repos\UDP Asynchronous Chat\form1\obj\Debug\form1.exe
+C:\Users\hlngn\source\repos\UDP Asynchronous Chat\form1\obj\Debug\form1.pdb
+C:\Users\hlngn\source\repos\UDP Asynchronous Chat\form1\obj\Debug\UDP_Chat_Server_Form.Form1.resources
+C:\Users\hlngn\source\repos\UDP Asynchronous Chat\form1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hlngn\source\repos\UDP Asynchronous Chat\form1\bin\Debug\Newtonsoft.Json.xml
