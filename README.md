@@ -1,6 +1,6 @@
 # Asynchronous Chat Application
 This is an example of chat application project which includes most of requirements that needed for server and clients. Created with UDP sockets for broadcasting. 
-Also have forms. With this app you are able to broadcast 64kb data. You can change it easily on source code on Client and Server class. Also does not have any database so does not contains any data permamently. I hope it can help you and can fulfill your purpose. 
+ With this app you are able to broadcast 64kb data. You can change it easily on source code on Client and Server class. Also does not have any database so does not contains any data permamently. I hope it can help you and can fulfill your purpose. 
 
 # Features
 ✔ Can broadcast text and image.
