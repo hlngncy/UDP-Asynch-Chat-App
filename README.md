@@ -3,9 +3,9 @@ This is an example of chat application project which includes most of requiremen
  With this app you are able to broadcast 64kb data. You can change it easily on source code on Client and Server class. Also does not have any database so does not contains any data permamently. I hope it can help you and can fulfill your purpose. 
 
 # Features
-✔ Can broadcast text and image.
-✔ Using Json for data transfer.
-✔ Has forms.
+✔ Can broadcast text and image.<br>
+✔ Using Json for data transfer.<br>
+✔ Has forms.<br>
 
 # Let me Know 
 If you have any problems and questions just let me know. 
