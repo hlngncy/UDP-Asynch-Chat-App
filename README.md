@@ -8,6 +8,7 @@ This is an example of chat application which includes most of requirements that 
 ✔ Using Json for data transfer.<br>
 ✔ Has forms.<br>
 ✔ Servers can contain the clients for sending data to specific server. For using it broadcast the "<DISCOVER>" text.<br>
+✔ Designed for local networks.
  
 # Let me Know 
 If you have any problems and questions just let me know. 
