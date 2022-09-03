@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UdpBroadcastSender", "UdpBroadcastSender\UdpBroadcastSender.csproj", "{94500069-3AB4-44E1-9F1D-8A1F95E4EA3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94500069-3AB4-44E1-9F1D-8A1F95E4EA3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94500069-3AB4-44E1-9F1D-8A1F95E4EA3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94500069-3AB4-44E1-9F1D-8A1F95E4EA3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94500069-3AB4-44E1-9F1D-8A1F95E4EA3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3654647-2735-451F-9573-19FA2D4212DC}
+	EndGlobalSection
+EndGlobal

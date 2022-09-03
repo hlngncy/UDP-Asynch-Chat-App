@@ -1,0 +1,15 @@
+C:\Users\hlngn\source\repos\UdpBroadcastReceiver\UdpBroadcastReceiver\bin\Debug\net6.0\UdpBroadcastReceiver.exe
+C:\Users\hlngn\source\repos\UdpBroadcastReceiver\UdpBroadcastReceiver\bin\Debug\net6.0\UdpBroadcastReceiver.deps.json
+C:\Users\hlngn\source\repos\UdpBroadcastReceiver\UdpBroadcastReceiver\bin\Debug\net6.0\UdpBroadcastReceiver.runtimeconfig.json
+C:\Users\hlngn\source\repos\UdpBroadcastReceiver\UdpBroadcastReceiver\bin\Debug\net6.0\UdpBroadcastReceiver.dll
+C:\Users\hlngn\source\repos\UdpBroadcastReceiver\UdpBroadcastReceiver\bin\Debug\net6.0\UdpBroadcastReceiver.pdb
+C:\Users\hlngn\source\repos\UdpBroadcastReceiver\UdpBroadcastReceiver\obj\Debug\net6.0\UdpBroadcastReceiver.csproj.AssemblyReference.cache
+C:\Users\hlngn\source\repos\UdpBroadcastReceiver\UdpBroadcastReceiver\obj\Debug\net6.0\UdpBroadcastReceiver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hlngn\source\repos\UdpBroadcastReceiver\UdpBroadcastReceiver\obj\Debug\net6.0\UdpBroadcastReceiver.AssemblyInfoInputs.cache
+C:\Users\hlngn\source\repos\UdpBroadcastReceiver\UdpBroadcastReceiver\obj\Debug\net6.0\UdpBroadcastReceiver.AssemblyInfo.cs
+C:\Users\hlngn\source\repos\UdpBroadcastReceiver\UdpBroadcastReceiver\obj\Debug\net6.0\UdpBroadcastReceiver.csproj.CoreCompileInputs.cache
+C:\Users\hlngn\source\repos\UdpBroadcastReceiver\UdpBroadcastReceiver\obj\Debug\net6.0\UdpBroadcastReceiver.dll
+C:\Users\hlngn\source\repos\UdpBroadcastReceiver\UdpBroadcastReceiver\obj\Debug\net6.0\refint\UdpBroadcastReceiver.dll
+C:\Users\hlngn\source\repos\UdpBroadcastReceiver\UdpBroadcastReceiver\obj\Debug\net6.0\UdpBroadcastReceiver.pdb
+C:\Users\hlngn\source\repos\UdpBroadcastReceiver\UdpBroadcastReceiver\obj\Debug\net6.0\UdpBroadcastReceiver.genruntimeconfig.cache
+C:\Users\hlngn\source\repos\UdpBroadcastReceiver\UdpBroadcastReceiver\obj\Debug\net6.0\ref\UdpBroadcastReceiver.dll
