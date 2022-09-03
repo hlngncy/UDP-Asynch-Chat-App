@@ -11,4 +11,4 @@ This is an example of chat application which includes most of requirements that 
 If you have any problems and questions just let me know. 
 
 
-![the-koi-fish-japan-vector](https://user-images.githubusercontent.com/86743390/154522905-ce4cca8b-bbb5-47db-a439-4cff0592c53c.jpg)
+
