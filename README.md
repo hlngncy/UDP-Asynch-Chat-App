@@ -9,7 +9,6 @@ so does not contains any data permamently. I hope it can help you and can fulfil
 ✔ Using Json for data transfer.<br>
 ✔ Has forms.<br>
 ✔ Servers can contain the clients for sending data to specific server. For using it broadcast the "\<DISCOVER>" text.<br>
-✔ Designed for local networks.
  
 # Let me Know 
 If you have any problems and questions just let me know. 
