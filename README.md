@@ -1,6 +1,6 @@
 # Asynchronous Chat Application
 This is an example of chat application which includes most of requirements that needed for server and clients. Created with .NET UDP sockets for broadcasting. 
- With this app you are able to broadcast 64kb data. You can change it easily on source code on Client and Server class. Also does not have any database access
+ With this app you are able to broadcast 64kb data. You can change it easily on source code on chatserver.cs . Also does not have any database access
 so does not contains any data permamently. I hope it can help you and can fulfill your purpose. 
 
 
@@ -10,8 +10,7 @@ so does not contains any data permamently. I hope it can help you and can fulfil
 ✔ Has forms.<br>
 ✔ Servers can contain the clients for sending data to specific server. For using it broadcast the "\<DISCOVER>" text.<br>
  
-# Let me Know 
-If you have any problems and questions just let me know. 
+
 
 
 
@@ -38,5 +37,7 @@ You can find executable files in bin files. Also you can execute client and serv
 I know its a little messy but still on progress, i will continue to work on it. 
 Also this is a project from learning state.
 
+# Let me Know 
+If you have any problems, questions or advice just let me know. 
 
 
