@@ -31,7 +31,7 @@ saea.SetBuffer(new byte[64000], 0, 64000);
 
 
 ## Executing
-You can find executable files in bin files. Also you can execute client and server app as form or console.
+You can find executable in bin files. Also you can execute client and server app as form or console.
 
 ## Note that
 I know its a little messy but still on progress, i will continue to work on it. 
