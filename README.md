@@ -17,7 +17,7 @@ so does not contains any data permamently. I hope it can help you and can fulfil
 
 
 
-## Changing Data Capasity
+## Changing Data Buffer
 Dont needed the change from client side. Its optimized on your data which you want to send.
  But on the server side you need to.
  You can change the values from that line:
